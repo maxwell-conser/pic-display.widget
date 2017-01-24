@@ -11,7 +11,7 @@ The command echoes back the location of the image you want to display. Simply ch
 
 It is recommended that you put your picture in the `pic-display.widget/Pics` folder, then it is stored locally and you only have to change `YOUR_IMAGE_HERE.png` in the command to the name of your image. If for some reason you don't want to store it locally you can also use a URL in place of a path.
 
-Any normal web image format will work -- i.e. JPEGs, PNGs, or even animated GIFs.
+Any normal web image format will work -- e.g. JPEGs, PNGs, or even animated GIFs.
 
 You can use the [z-index](http://www.w3schools.com/cssref/pr_pos_z-index.asp) to control which widget goes on top of which, for example in the screenshot above I added `z-index: -1` to the style of the clock widget to make sure it appears behind the overlay.
 
