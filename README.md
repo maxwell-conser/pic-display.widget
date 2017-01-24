@@ -18,3 +18,5 @@ You can use the [z-index](http://www.w3schools.com/cssref/pr_pos_z-index.asp) to
 If you are trying to put some widget under the desktop image like in the Yosemite example above, do yourself a favor and use a screenshot to select the [image overlay](Example/Picture-To-Overlay.png) from. By taking a screenshot you know your overlay is the exact right size and you won't have to finagle with the width.
 
 You will usually have to mess with the placement of the image to get it to overlap properly, even if it's only by moving it down by 1%.
+
+I wrote this in approximately 3 seconds for personal use and am pretty new to coding so any improvements are welcome.
