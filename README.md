@@ -3,9 +3,9 @@
 # pic-display.widget
 Very tiny, very simple widget to put a picture on your desktop via Ubersicht.
 
-The main purpose of this is to allow other Ubersicht widgets to be overlayed with the desktop as seen above. In that example the pic-display widget with [this picture](Example/Picture-To-Overlay.png) was overlayed on one of the default Yosemite desktop backgrounds with the clock widget in between.
+The main purpose of this is to allow other Ubersicht widgets to be overlayed with the desktop as seen above. In that example the pic-display widget set to [this picture](Example/Picture-To-Overlay.png) was overlayed on top of one of the default desktop backgrounds with the clock widget in between.
 
-## How to use.
+## How to Use
 
 The command echoes back the location of the image you want to display. Simply change the default file path to point towards your image.
 
