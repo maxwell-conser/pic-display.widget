@@ -3,7 +3,7 @@
 # pic-display.widget
 Very tiny, very simple widget to put a picture on your desktop via Ubersicht.
 
-The main purpose of this is to allow other Ubersicht widgets to be overlayed with the desktop as seen above. In that example the pic-display widget set to [this picture](Example/Picture-To-Overlay.png) was overlayed on top of one of the default desktop backgrounds with the clock widget in between.
+The main purpose of this is to allow other Ubersicht widgets to be overlayed with the desktop background as seen above. In that example the pic-display widget set to [this picture](Example/Picture-To-Overlay.png) was overlayed on top of one of the default desktop backgrounds with the clock widget in between.
 
 ## How to Use
 
