@@ -19,4 +19,4 @@ If you are trying to put some widget under the desktop image like in the Yosemit
 
 You will usually have to mess with the placement of the image to get it to overlap properly, even if it's only by moving it down by 1%.
 
-I wrote this in approximately 3 seconds for personal use and am pretty new to coding so any improvements are welcome.
+I wrote this in approximately 3 seconds for personal use and am pretty new to coding so it's messy; any improvements are welcome.
