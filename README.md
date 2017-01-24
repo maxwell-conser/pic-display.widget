@@ -1,4 +1,4 @@
-![Clock widget partially hidden behind Yosemite terrain](Example/Screenshot-Final.png "The pic being displayed here is the terrain from the desktop background; thus giving the effect of the clock being behind the landscape.")
+![Clock widget partially hidden behind Yosemite terrain](Example/Screenshot-Final-Lores.png "The pic being displayed here is the terrain from the desktop background; thus giving the effect of the clock being behind the landscape.")
 
 # pic-display.widget
 Very tiny, very simple widget to put a picture on your desktop via Ubersicht.
