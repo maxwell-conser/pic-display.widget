@@ -1,8 +1,9 @@
+![Clock widget partially hidden behind Yosemite terrain](Example/Screenshot-Final.png)
+
 # pic-display.widget
 Very tiny, very simple widget to put a picture on your desktop via Ubersicht.
 
-The main purpose of this is to allow other Ubersicht widgets to be overlayed with the desktop as seen ![alt text]
-(Example/Screenshot-Final.png). In that example the pic-display widget with [this picture](Example/Picture-To-Overlay.png) was overlayed on one of the default Yosemite desktop backgrounds with the clock widget in between.
+The main purpose of this is to allow other Ubersicht widgets to be overlayed with the desktop as seen above. In that example the pic-display widget with [this picture](Example/Picture-To-Overlay.png) was overlayed on one of the default Yosemite desktop backgrounds with the clock widget in between.
 
 ## How to use.
 
